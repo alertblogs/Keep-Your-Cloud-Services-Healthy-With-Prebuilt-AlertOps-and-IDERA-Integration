@@ -1,40 +1,30 @@
-AlertOps Expert Guidance
+Keep Your Cloud Services Healthy With Prebuilt AlertOps and IDERA Integration
 ========
+IDERA (formerly CopperEgg) is a cloud performance monitor that tracks infrastructure performance from end to end.
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+IDERA not only keeps tabs on the current status of your user facing and database resources, it also uses key health indicators to create a performance rating index that enables you to compare the current performance with historical norms, so you can predict issues based on whether or not your systems are within normal operating ranges.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+IDERA also sports a long list of integrations to consolidate your cloud maintenance and performance monitoring in once place, with the fewest dashboards possible.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+AlertOps is one of those integrations. IDERA is a comprehensive monitoring solution, but it’s not intended to be an incident management system. That’s why AlertOps is such a great integration to have with IDERA.
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+AlertOps enables you to distribute incident information from IDERA to your tech teams so you can resolve issues faster.
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+Here are some things integrating AlertOps and IDERA can do for you:
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+    AlertOps receives alerts directly from IDERA and automatically opens and closes alerts based on the status reported by IDERA. AlertOps does the administrative legwork so your teams can concentrate on getting systems back online.
+    Use any inbound field from the JSON to send custom messages with alerts. Your teams get alerts when incidents occur, and they get pertinent troubleshooting information with those alerts for simpler, more efficient incident communication.
+    Map any inbound field to the topic field in AlertOps, and use topics to track incidents and automatically route alerts to the best team to resolve the incident.
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+These are just a few things you can do with a quick, easy integration using our Generic REST API. AlertOps also gives you configurable message routing rules, customizable workflows, and automated incident escalation so incident management is always easy.
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+Head over to our help center to learn how to configure your AlertOps and IDERA integration, and find out what else AlertOps and IDERA can do for you.
 
-1 Red Canary 2021 Threat Detection Report
+Or check out over 50 other third party integrations for the monitoring and communication tools you use every day!
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/alertops-and-copperegg-integration/
 
 Read more:
 ====
